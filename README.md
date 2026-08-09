@@ -1,16 +1,30 @@
-## Hi there 👋
+# uqmj
 
-<!--
-**darkzin-dev/darkzin-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Developer · Reverse Engineer · Security Researcher**
 
-Here are some ideas to get you started:
+I build iOS tweaks, websites, and software, while also doing reverse engineering and security research.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### `01` — What I Do
+
+* iOS Tweaks & Customizations
+* Reverse Engineering & Binary
+* Web Development
+* Security Testing & Vulnerability Research
+* Bug Hunting & Responsible Disclosure
+* Software Development
+
+### `02` — Languages
+
+`Swift` · `Objective-C` · `C` · `C++` · `C#` · `Java`
+`HTML` · `CSS` · `ARM64` · `JavaScript`
+
+### `03` — Interests
+
+iOS exploits · Programming · Web Security
+Reverse Engineering · Software Analysis · Security Research
+
+### `04` — Contact
+
+[Discord](https://discord.com/users/371579095231758336)
+
+---
